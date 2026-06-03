@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a4e,100:0d1117&height=200&section=header&text=Gowtham%20Kumar&fontSize=46&fontColor=70A5FD&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20Java%20Full%20Stack%20Developer%20%7C%20Astronaut%20Coder%20from%20Tamil%20Nadu%20%F0%9F%8C%8C&descAlignY=62&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a4e,100:0d1117&height=200&section=header&text=Gowtham%20Kumar&fontSize=46&fontColor=70A5FD&animation=twinkling&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20Apps%20from%20Tamil%20Nadu%20%F0%9F%8C%8C&descAlignY=62&descSize=17)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Astronaut+Coder+from+Tamil+Nadu%2C+India;%E2%98%95+Java+Full+Stack+Developer;%F0%9F%9B%B8+Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;%F0%9F%A4%96+95%25+YOLOv8+Traffic+Detection+Accuracy;%F0%9F%8C%8C+NPTEL+Elite+Silver+%7C+AWS+AI+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer+%F0%9F%92%BB;Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;95%25+Accuracy+YOLOv8+Traffic+Detection+%F0%9F%8F%8D;NPTEL+Elite+Silver+%7C+AWS+AI+Practitioner+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+from+Tamil+Nadu+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,51 +19,47 @@
 
 ---
 
-## 🚀 Mission Control — About Me
+## 🌌 About Me
 
 <table>
 <tr>
 <td valign="top" width="55%">
 
 ```java
-/**
- * 🛸 MISSION CONTROL — DEEP SPACE SECTOR 42
- * Astronaut ID: GOWTHAM-KUMAR-42
- * Status: ACTIVE | Currently orbiting Tamil Nadu 🌍
- */
-public class GowthamKumar extends Astronaut {
+public class GowthamKumar {
 
-    // 🪐 Identity
-    final String callsign  = "gowthamkumar42";
-    final String base      = "Tiruppur, Tamil Nadu 🇮🇳";
-    final String mission   = "B.Tech IT — Nandha CoT (2026)";
-    final String comms     = "tn42gowtham@gmail.com";
+    // ── Identity ──────────────────────────────
+    String name     = "Gowtham Kumar";
+    String github   = "gowthamkumar42";
+    String location = "Tiruppur, Tamil Nadu 🇮🇳";
+    String degree   = "B.Tech IT — Nandha CoT (2026)";
+    String email    = "tn42gowtham@gmail.com";
 
-    // 🛰️ Primary Payload (Tech Stack)
-    String[] systems = {
+    // ── Tech Stack ────────────────────────────
+    String[] stack = {
         "Java", "Spring Boot", "React.js",
         "MySQL", "MongoDB", "Docker",
         "Python", "Flask", "YOLOv8"
     };
 
-    // 🌌 Next Launch Trajectory
-    String[] trainingSimulations = {
+    // ── Currently Learning ────────────────────
+    String[] learning = {
         "Microservices Architecture",
         "Kubernetes & CI/CD Pipelines",
         "System Design Fundamentals",
-        "Advanced DSA — LeetCode Grind 🚀"
+        "Advanced DSA & LeetCode Grind"
     };
 
-    // ☄️ Mission Log
-    String missionBriefing() {
+    // ── Fun Fact ──────────────────────────────
+    String funFact() {
         return "Built a traffic AI with 95% accuracy "
-             + "using YOLOv8 — from Earth orbit! 🏍️";
+             + "using YOLOv8! 🏍️";
     }
 
-    // 🌠 Astronaut Code
-    String credo() {
-        return "Code that works today, "
-             + "reads well across galaxies.";
+    // ── Motto ─────────────────────────────────
+    String motto() {
+        return "Write code that works today, "
+             + "reads well tomorrow.";
     }
 }
 ```
@@ -71,11 +67,11 @@ public class GowthamKumar extends Astronaut {
 </td>
 <td valign="top" align="center" width="45%">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Space astronaut floating"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="340" alt="Astronaut coding in space"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="320" alt="Space coding atmosphere"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d1a26.gif" width="180" alt="Spinning planet"/>
 
 </td>
 </tr>
